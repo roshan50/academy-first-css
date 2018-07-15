@@ -1,0 +1,52 @@
+
+/**************************************************************************/
+body{
+    direction: rtl;
+}
+.list-group{
+    list-style: none;
+    margin: 0;
+    flex-direction: row;
+}
+.list-group-item{
+    font-size:14px;
+    display: flex;
+}
+.flex{
+    display: flex;
+}
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+.flex-space-around{
+    display: flex;
+    justify-content: space-around;
+}
+.flex-space-between{
+    display: flex;
+    justify-content: space-between;
+}
+.row-reverse{
+    flex-direction: row-reverse;
+}
+.vertical-center{
+    display: flex;
+    align-items: center;
+}
+.center {
+    display: flex;
+    height: 160px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.btn-user-part{
+    width: 145px;
+    height: 45px;
+    background-color: #505a78;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-top: 25px;
+}

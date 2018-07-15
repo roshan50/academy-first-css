@@ -1,0 +1,88 @@
+.one{
+    background-color: red;
+    height: 40px;
+}
+.two{
+    background-color: green;
+    height: 40px;
+}
+.three{
+    background-color: blue;
+    height: 40px;
+}
+.four{
+    background-color: yellow;
+    height: 40px;
+}
+.five{
+    background-color: purple;
+    height: 40px;
+}
+.six{
+    background-color: orange;
+    height: 40px;
+}
+
+.seven{
+    background-color: pink;
+    height: 64px;
+}
+
+.bg-chambray{
+    background-color: #505a78;
+}
+/******************************************************************************/
+.flex{
+    display: flex;
+}
+.no-list-style{
+    list-style: none;
+    margin: 0;
+}
+/*............................................*/
+body{
+    direction: rtl;
+    text-align: right;
+    font-family: IRANSans;
+    background-color: #f7f8f9;
+    color: #959499;
+    font-size: 14px;
+}
+/*img{*/
+    /*width: 80%;*/
+    /*height: auto;*/
+/*}*/
+button{
+    border: none;
+}
+a,button{
+    cursor: pointer;
+    font-family: IRANSans;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+/*............................................................................*/
+nav{
+    height: 110px;
+    padding-top: 25px;
+}
+.btn-user-part{
+    width: 145px;
+    height: 45px;
+    background-color: #505a78;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.header-middle-text{
+    margin-top: 140px;
+    font-size: 22px;
+    color: #ffffff;
+}
+.header-middle-sign{
+    margin-top: 140px;
+    margin-right: 25px;
+    margin-left: 18px;
+}
